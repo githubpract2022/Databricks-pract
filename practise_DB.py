@@ -7,7 +7,7 @@ raw_location = "abfss://dataexpo-data@adlsreaddemoprerun.dfs.core.windows.net/ra
 
 # COMMAND ----------
 
-
+##second commit
 
 # COMMAND ----------
 
